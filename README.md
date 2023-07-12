@@ -1,4 +1,4 @@
-# Completed blog website: https://williams-blog-8638fb2d728b.herokuapp.com/ #:
+# Completed blog website: https://williams-blog-8638fb2d728b.herokuapp.com/:
 
 ## Skills/Tools used:
 * flask and associated packages
