@@ -1,8 +1,16 @@
-# blog_complete
-Completed blog website, using:
-flask, flask_bootstrap, flask_wtf, flask_ckeditor, flask_sqlalchemy, flask_login, flask_gravatar
+# Completed blog website: https://williams-blog-8638fb2d728b.herokuapp.com/:
 
-Functionalities include:
-- separate databases for user information, blog information, and comments using SQLalchemy relationships
-- registration, login, logout functionality with admin and user privileges and password encryption
-- integration of flask-bootstrap for front-end design
+## Skills/Tools used:
+* flask and associated packages
+  * (e.g. flask_bootstrap, flask_wtf, flask_sqlalchemy, flask_login)  
+* OOP  
+* SQL
+* Jinja
+* REST API
+* Web Deployment using Heroku, gunicorn, PostgreSQL
+* HTML/CSS
+
+## **Other learnings**
+* Multiple Databases: Creating and linking multiple databases with parent-child relationships
+* User Authentication: Fully functional registration/login/logout, password encryption, and responsive flash messages
+* Access restriction: With decorators and admin designation
