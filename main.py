@@ -92,7 +92,7 @@ def admin_required(f):
             if current_user.id == 1:
                 result = f(*args, **kwargs)
                 return result
-        except AttributeError:
+        except AttributeError: #Anonymous users throw AttributeError
             return abort(403)
         else:
             return abort(403)
@@ -174,9 +174,9 @@ def about():
     return render_template("about.html")
 
 
-@app.route("/contact")
-def contact():
-    return render_template("contact.html")
+# @app.route("/contact")
+# def contact():
+#     return render_template("contact.html")
 
 
 @app.route("/new-post", methods=['GET','POST'])
