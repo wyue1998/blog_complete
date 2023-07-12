@@ -6,8 +6,9 @@
 * OOP  
 * SQL
 * Jinja
-* building REST API
+* REST API
 * Web Deployment using Heroku, gunicorn, PostgreSQL
+* HTML/CSS
 
 ## **Other learnings**
 * Multiple Databases: Creating and linking multiple databases with parent-child relationships
