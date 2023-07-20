@@ -1,6 +1,4 @@
-# Completed blog website: N/A (taken down to save costs):
-
-## Skills/Tools used:
+# Skills/Tools used:
 * flask and associated packages
   * (e.g. flask_bootstrap, flask_wtf, flask_sqlalchemy, flask_login)  
 * OOP  
