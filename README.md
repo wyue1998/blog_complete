@@ -2,7 +2,7 @@
 * flask and associated packages
   * (e.g. flask_bootstrap, flask_wtf, flask_sqlalchemy, flask_login)  
 * OOP  
-* SQL
+* SQL/SQLite
 * Jinja
 * REST API
 * Web Deployment using Heroku, gunicorn, PostgreSQL
