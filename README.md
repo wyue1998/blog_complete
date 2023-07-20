@@ -13,4 +13,4 @@
 * User Authentication: Fully functional registration/login/logout, password encryption, and responsive flash messages
 * Access restriction: With decorators and admin designation
 
-(The code is setup to be deployed on heroku with PostgreSQL)
+(The code is setup for Heroku and PostgreSQL)
