@@ -14,5 +14,3 @@
 * Multiple Databases: Creating and linking multiple databases with parent-child relationships (i.e. users, their blogs, and their comments)
 * User Authentication: Fully functional registration/login/logout, password encryption, and responsive flash messages
 * Access restriction: With decorators and admin designation
-
-(The code is setup for Heroku and PostgreSQL)
