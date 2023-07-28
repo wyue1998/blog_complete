@@ -7,7 +7,7 @@
 * SQL/SQLite
 * Jinja
 * REST API
-* Web Deployment using Heroku, gunicorn, PostgreSQL
+* Web Deployment using Render, gunicorn, PostgreSQL
 * HTML/CSS
 
 ## **Other learnings**
