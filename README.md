@@ -1,4 +1,4 @@
-# *Check it out: https://flask-blog-wy98.onrender.com/*
+# *Check it out: (taken down because render only allows 1 free deploy :( )
 
 ## Skills/Tools used:
 * flask and associated packages
